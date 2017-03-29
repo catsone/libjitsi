@@ -39,7 +39,7 @@ public class EncodingConfigurationImpl extends EncodingConfiguration
      * some countries and is licensed by
      * <a href="http://www.sipro.com">SIPRO Lab Telecom</a>.
      */
-    public static final boolean G729 = false;
+    public static final boolean G729 = true;
 
     /**
      * Constructor. Loads the default preferences.
